@@ -1,26 +1,26 @@
-provincia;region
-Buenos Aires;AMBA
-CABA;AMBA
-Catamarca;NORTE
-Chaco;NORTE
-Chubut;SUR
-Corrientes;NORTE
-Córdoba;CENTRO
-Entre Ríos;NORTE
-Formosa;NORTE
-Jujuy;NORTE
-La Pampa;CENTRO
-La Rioja;NORTE
-Mendoza;CENTRO
-Misiones;NORTE
-Neuquén;SUR
-Río Negro;SUR
-Salta;NORTE
-San Juan;CENTRO
-San Luis;CENTRO
-Santa Cruz;SUR
-Santa Fe;CENTRO
-Santiago del Estero;CENTRO
-Tierra del Fuego;SUR
-Tucumán;NORTE
-SIN ESPECIFICAR; INDEFINIDO
+id;provincia;region
+1;Buenos Aires;AMBA
+2;CABA;AMBA
+3;Catamarca;NORTE
+4;Chaco;NORTE
+5;Chubut;SUR
+6;Corrientes;NORTE
+7;Córdoba;CENTRO
+8;Entre Ríos;NORTE
+9;Formosa;NORTE
+10;Jujuy;NORTE
+11;La Pampa;CENTRO
+12;La Rioja;NORTE
+13;Mendoza;CENTRO
+14;Misiones;NORTE
+15;Neuquén;SUR
+16;Río Negro;SUR
+17;Salta;NORTE
+18;San Juan;CENTRO
+19;San Luis;CENTRO
+20;Santa Cruz;SUR
+21;Santa Fe;CENTRO
+22;Santiago del Estero;CENTRO
+23;Tierra del Fuego;SUR
+24;Tucumán;NORTE
+25;SIN ESPECIFICAR; INDEFINIDO
